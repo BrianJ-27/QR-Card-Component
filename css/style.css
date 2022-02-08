@@ -61,7 +61,7 @@ img {
   height: auto;
 }
 
-span {
+h1 {
   color: var(--main-color);
   font-weight: var(--bold-text);
   font-size: 1.5rem;
