@@ -26,8 +26,8 @@ This component was to get me back into coding again after a 2yr absence. I enjoy
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-qr-card-component-using-css-variables-zDUPcZiuy)
-- Live Site URL: [Add live site URL here](https://brianj-27.github.io/QR-Card-Component/)
+- Solution URL: [FEM Solution Link](https://www.frontendmentor.io/solutions/responsive-qr-card-component-using-css-variables-zDUPcZiuy)
+- Live Site URL: [Deployed Project Link](https://brianj-27.github.io/QR-Card-Component/)
 
 ## My process
 
@@ -46,6 +46,8 @@ I learned how to work with CSS custom properties. This was my first time working
 
 To see how you can add code snippets, see below:
 
+Using more semantic elements like figure and figcaption
+
 ```html
 <figure>
   <img src="./images/image-qr-code.png" alt="QR Code Design" />
@@ -61,6 +63,8 @@ To see how you can add code snippets, see below:
 </figure>
 ```
 
+Using the min() for the first time!
+
 ```css
 .card {
   background: var(--card-color-white);
@@ -75,10 +79,10 @@ I want to continue getting more comfortable with using custom properties and exp
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS/min) - This helped me understand the basics of using the min() and how to implement it
-- [Example resource 2](https://www.youtube.com/watch?v=U9VF-4euyRo&t=874s) - This is Kevin Powell's amazing video tutorial which helped me to visually follow along and learn the basics. I'd recommend it to anyone still learning this concept.
+- [Developer Mozilla: min() MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/min) - This helped me understand the basics of using the min() and how to implement it
+- [Kevin Powell's Youtube Video on Using Min() Max() & clamp()](https://www.youtube.com/watch?v=U9VF-4euyRo&t=874s) - This is Kevin Powell's amazing video tutorial which helped me to visually follow along and learn the basics. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
-- Website - [Add your name here](https://brianbjohnson.net/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/BrianJ-27)
+- My Website - [Brian's Website](https://brianbjohnson.net/)
+- Frontend Mentor Profile - [@BrianJ-27](https://www.frontendmentor.io/profile/BrianJ-27)
